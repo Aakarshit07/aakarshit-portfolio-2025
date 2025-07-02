@@ -38,4 +38,4 @@ This is a personal portfolio website built using Vite+React, Tailwind CSS, and F
 
 ## Demo
 
-Check out the live demo of the portfolio website: [Live Demo]()
+Check out the live demo of the portfolio website: [Live Demo](https://aakarshit-portfolio-2025-h87k.vercel.app/)
